@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
+        "projectName": "MinhaApiCompleta.Business",
+        "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
+        "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiago.castilhos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nugetgallery-webapp.azurewebsites.net/api/v2/curated-feeds/ti-master": {},
+          "https://promob-dev.pkgs.visualstudio.com/_packaging/Promob/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
+        "projectName": "MinhaApiCompleta.Data",
+        "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
+        "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tiago.castilhos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nugetgallery-webapp.azurewebsites.net/api/v2/curated-feeds/ti-master": {},
+          "https://promob-dev.pkgs.visualstudio.com/_packaging/Promob/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
+                "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

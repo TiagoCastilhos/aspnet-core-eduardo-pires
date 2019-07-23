@@ -1,0 +1,9 @@
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.deps.json
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.csproj.CoreCompileInputs.cache
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.AssemblyInfoInputs.cache
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.AssemblyInfo.cs
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
+C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.csprojAssemblyReference.cache
