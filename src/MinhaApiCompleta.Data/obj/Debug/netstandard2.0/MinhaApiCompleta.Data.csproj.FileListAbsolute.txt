@@ -10,3 +10,15 @@ C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\Minh
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.csproj.CopyComplete
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Data.deps.json
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Data.dll
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Data.pdb
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.csprojAssemblyReference.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.csproj.CoreCompileInputs.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.AssemblyInfoInputs.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.AssemblyInfo.cs
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.csproj.CopyComplete
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.dll
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Data\obj\Debug\netstandard2.0\MinhaApiCompleta.Data.pdb

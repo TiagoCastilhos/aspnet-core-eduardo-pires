@@ -7,3 +7,11 @@ C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\Minh
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
 C:\Users\tiago.castilhos\Source\Repos\MinhaApiCompleta\MinhaApiCompleta\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.csprojAssemblyReference.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.csproj.CoreCompileInputs.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.AssemblyInfoInputs.cache
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.AssemblyInfo.cs
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\obj\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.deps.json
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.dll
+C:\GitHub\aspnet-core-eduardo-pires\src\MinhaApiCompleta.Business\bin\Debug\netstandard2.0\MinhaApiCompleta.Business.pdb

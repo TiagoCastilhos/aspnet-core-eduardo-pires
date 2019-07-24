@@ -1,7 +1,5 @@
 ﻿using FluentValidation;
-using System;
-using System.Collections.Generic;
-using System.Text;
+using MinhaApiCompleta.Business.Models.Validations.Documentos;
 
 namespace MinhaApiCompleta.Business.Models.Validations
 {
@@ -18,15 +16,15 @@ namespace MinhaApiCompleta.Business.Models.Validations
             {
                 RuleFor(f => f.Documento.Length).Equal(CpfValidacao.TamanhoCpf)
                     .WithMessage("O campo Documento precisa ter {ComparisonValue} caracteres");
-                RuleFor(f => f.CpfValidacao.Validar(f.Documento)).Equal(true)
+                RuleFor(f => CpfValidacao.Validar(f.Documento)).Equal(true)
                     .WithMessage("O documento é invalido");
             });
 
             When(f => f.TipoFornecedor == TipoFornecedor.PessoaJuridica, () =>
             {
-                RuleFor(f => f.Documento.Length).Equal(CnpjValidacao.TamanhoCpf)
+                RuleFor(f => f.Documento.Length).Equal(CnpjValidacao.TamanhoCnpj)
                     .WithMessage("O campo Documento precisa ter {ComparisonValue} caracteres");
-                RuleFor(f => f.CnpjValidacao.Validar(f.Documento)).Equal(true)
+                RuleFor(f => CnpjValidacao.Validar(f.Documento)).Equal(true)
                     .WithMessage("O documento é invalido");
             });
         }

@@ -54,9 +54,14 @@ namespace MinhaApiCompleta.Data.Repositories
             await SaveChanges();
         }
 
-        private async Task<int> SaveChanges()
+        public async Task<int> SaveChanges()
         {
             return await Db.SaveChangesAsync();
+        }
+
+        public void Dispose()
+        {
+            Db?.Dispose();
         }
     }
 }

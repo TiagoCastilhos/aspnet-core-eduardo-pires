@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj": {}
+    "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj": {
+    "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj",
+        "projectUniqueName": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj",
         "projectName": "MinhaApiCompleta.Api",
-        "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj",
+        "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Api\\MinhaApiCompleta.Api.csproj",
         "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Api\\obj\\",
+        "outputPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -32,11 +32,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
-                "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj"
+              "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
+                "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj"
               },
-              "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {
-                "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj"
+              "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {
+                "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
+    "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
+        "projectUniqueName": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
         "projectName": "MinhaApiCompleta.Business",
-        "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
+        "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj",
         "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\obj\\",
+        "outputPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -138,14 +138,14 @@
         }
       }
     },
-    "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {
+    "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
+        "projectUniqueName": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
         "projectName": "MinhaApiCompleta.Data",
-        "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
+        "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\MinhaApiCompleta.Data.csproj",
         "packagesPath": "C:\\Users\\tiago.castilhos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Data\\obj\\",
+        "outputPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -166,8 +166,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
-                "projectPath": "C:\\Users\\tiago.castilhos\\Source\\Repos\\MinhaApiCompleta\\MinhaApiCompleta\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj"
+              "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj": {
+                "projectPath": "C:\\GitHub\\aspnet-core-eduardo-pires\\src\\MinhaApiCompleta.Business\\MinhaApiCompleta.Business.csproj"
               }
             }
           }
