@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace MinhaApiCompleta.Business.Models
+﻿namespace MinhaApiCompleta.Business.Models
 {
     public enum TipoFornecedor
     {
-        PessoaFisica,
+        PessoaFisica = 1,
         PessoaJuridica
     }
 }

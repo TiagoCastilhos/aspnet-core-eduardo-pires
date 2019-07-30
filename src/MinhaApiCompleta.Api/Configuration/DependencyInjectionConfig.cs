@@ -1,12 +1,9 @@
-﻿using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.DependencyInjection;
+﻿using Microsoft.Extensions.DependencyInjection;
 using MinhaApiCompleta.Business.Interfaces;
+using MinhaApiCompleta.Business.Notifications;
+using MinhaApiCompleta.Business.Services;
 using MinhaApiCompleta.Data.Contexts;
 using MinhaApiCompleta.Data.Repositories;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace MinhaApiCompleta.Api.Configuration
 {
@@ -15,7 +12,15 @@ namespace MinhaApiCompleta.Api.Configuration
         public static IServiceCollection ResolveDependecies(this IServiceCollection services)
         {
             services.AddScoped<MeuDbContext>();
+
             services.AddScoped<IFornecedoresRepository, FornecedoresRepository>();
+            services.AddScoped<IEnderecosRepository, EnderecosRepository>();
+            services.AddScoped<IProdutosRepository, ProdutosRepository>();
+
+            services.AddScoped<IProdutosService, ProdutosService>();
+            services.AddScoped<IFornecedoresService, FornecedoresService>();
+
+            services.AddScoped<INotificador, Notificador>();
 
             return services;
         }

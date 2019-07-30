@@ -10,7 +10,10 @@ namespace MinhaApiCompleta.Api.Configuration
         {
             CreateMap<Fornecedor, FornecedorViewModel>().ReverseMap();
             CreateMap<Endereco, EnderecoViewModel>().ReverseMap();
-            CreateMap<Produto, ProdutoViewModel>().ReverseMap();
+            CreateMap<ProdutoViewModel, Produto>();
+
+            CreateMap<Produto, ProdutoViewModel>()
+                .ForMember(dest => dest.NomeFornecedor, o => o.MapFrom(s => s.Fornecedor.Nome));
         }
     }
 }
